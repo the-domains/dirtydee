@@ -1,6 +1,6 @@
 name: dirtydee
 favicon: null
-layout_spectrum: 0.96819
+layout_spectrum: 0.48265
 typography_spectrum: 0.86898
 title: "dirty dee's diary"
 cta:
@@ -22,8 +22,8 @@ color:
     - '#7e6f84'
     - '#cbaaa1'
     - '#d84555'
-  brandStrength: 0.0625
-  lightness: 0.375
+  brandStrength: 0.875
+  lightness: 0.8125
   saturation: 0.625
   rhythmicContrast: 0.5
 purpose: []
